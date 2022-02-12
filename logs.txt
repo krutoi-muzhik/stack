@@ -1,0 +1,1235 @@
+Sun Oct 24 11:17:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 159
+
+Stack [0x871641E0] {  
+	canary1 = -1090594118 
+	capacity = 1 
+	size = 0     
+	data [0x79BA12A4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 2145157772    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 9     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = 9
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 3193431265
+		data canary2 = -1090594118
+	hash = 941504667    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 8     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1611495025
+		data canary2 = -1090594118
+	hash = 2524358922    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 7     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 212782494
+		data canary2 = -1090594118
+	hash = 412929584    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 6     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 650981917
+		data canary2 = -1090594118
+	hash = 3069468577    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 5     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1136566202
+		data canary2 = -1090594118
+	hash = 2671569747    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 4     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3409306876
+		data canary2 = -1090594118
+	hash = 2620537153    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 3     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 1722009621
+		data canary2 = -1090594118
+	hash = 1640743220    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 2     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3099354981
+		data canary2 = -1090594118
+	hash = 3483586725    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackPop on line 173
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 1     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = -1095058758(poison)
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 1566590646    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:22:52 2021
+
+ Stack [5] INCORRECT CAPACITY in function StackDestruct on line 127
+
+Stack [0x1FF45300] {  
+	canary1 = -1090594118 
+	capacity = 2 
+	size = 0     
+	data [0xDCEAE2A4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data[1] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 1127581047    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:31:42 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackDestruct on line 127
+
+Stack [0x90AE37D0] {  
+	canary1 = -1090594118 
+	capacity = 1 
+	size = 0     
+	data [0xF1B252A4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 4253943689    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:36:01 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackDestruct on line 126
+
+Stack [0xAB4F6A70] {  
+	canary1 = -1090594118 
+	capacity = 1 
+	size = 0     
+	data [0xB4B4C2A4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 3371461333    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 9     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = 9
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 3193431265
+		data canary2 = -1090594118
+	hash = 3680224766    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 8     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1611495025
+		data canary2 = -1090594118
+	hash = 1966298223    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 7     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 212782494
+		data canary2 = -1090594118
+	hash = 4225315669    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 6     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 650981917
+		data canary2 = -1090594118
+	hash = 1437704900    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 5     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1136566202
+		data canary2 = -1090594118
+	hash = 2088310326    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 4     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3409306876
+		data canary2 = -1090594118
+	hash = 2138555428    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 3     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 1722009621
+		data canary2 = -1090594118
+	hash = 2190359633    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 2     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3099354981
+		data canary2 = -1090594118
+	hash = 753315264    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 172
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 1     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = -1095058758(poison)
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 3190143955    
+	canary2 = -1090594118   
+}
+
+Sun Oct 24 11:40:31 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackDestruct on line 126
+
+Stack [0x7DEB7200] {  
+	canary1 = -1090594118 
+	capacity = 2 
+	size = 0     
+	data [0x86DE72A4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data[1] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 2691725330    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 8     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1611495025
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 7     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 212782494
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 6     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 650981917
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 5     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data[8] = -1095058758(poison)
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 1136566202
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 4     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3409306876
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 3     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 1722009621
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 2     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data[4] = -1095058758(poison)
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 3099354981
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 1     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = -1095058758(poison)
+		data[2] = -1095058758(poison)
+		data[3] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:40:12 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackDestruct on line 129
+
+Stack [0x0x7ffe49a88900] {  
+	canary1 = -1090594118 
+	capacity = 2 
+	size = 0     
+	data [0x0x564137a356d4] {  
+		data canary1 = -1090594118
+		data[0] = -1095058758(poison)
+		data[1] = -1095058758(poison)
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 3936372599    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 1 
+	size = 1     
+	data [0x55b9037d22a4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 2 
+	size = 2     
+	data [0x55b9037d22a4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data hash = 3099354981
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 3     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = -1095058758(poison)
+		data hash = 1722009621
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 4     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data hash = 3409306876
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 5     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 1136566202
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 6     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 650981917
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 7     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = -1095058758(poison)
+		data hash = 212782494
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 8     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data hash = 1611495025
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:30 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x7fff39615020] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 9     
+	data [0x55b9037d2de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = 9
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 3193431265
+		data canary2 = -1090594118
+	hash = 2865293683    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 1 
+	size = 1     
+	data [0x557a762362a4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data hash = 0
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 2 
+	size = 2     
+	data [0x557a762362a4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data hash = 3099354981
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 3     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = -1095058758(poison)
+		data hash = 1722009621
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 4 
+	size = 4     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data hash = 3409306876
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 5     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = -1095058758(poison)
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 1136566202
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 6     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = -1095058758(poison)
+		data[7] = -1095058758(poison)
+		data hash = 650981917
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 7     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = -1095058758(poison)
+		data hash = 212782494
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPush on line 161
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 8 
+	size = 8     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data hash = 1611495025
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
+Tue Nov  9 11:43:51 2021
+
+ Stack [6] INCORRECT COUNT OF STACK HASH in function StackPop on line 175
+
+Stack [0x7fff77c322a0] {  
+	canary1 = -1090594118 
+	capacity = 16 
+	size = 9     
+	data [0x557a76236de4] {  
+		data canary1 = -1090594118
+		data[0] = 1
+		data[1] = 2
+		data[2] = 3
+		data[3] = 4
+		data[4] = 5
+		data[5] = 6
+		data[6] = 7
+		data[7] = 8
+		data[8] = 9
+		data[9] = -1095058758(poison)
+		data[10] = -1095058758(poison)
+		data[11] = -1095058758(poison)
+		data[12] = -1095058758(poison)
+		data[13] = -1095058758(poison)
+		data[14] = -1095058758(poison)
+		data[15] = -1095058758(poison)
+		data hash = 3193431265
+		data canary2 = -1090594118
+	hash = 1925972535    
+	canary2 = -1090594118   
+}
+
